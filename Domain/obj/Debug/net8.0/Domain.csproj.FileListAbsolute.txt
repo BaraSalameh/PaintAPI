@@ -1,0 +1,14 @@
+B:\Paint\PaintAPIs\Domain\bin\Debug\net8.0\Domain.deps.json
+B:\Paint\PaintAPIs\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+B:\Paint\PaintAPIs\Domain\bin\Debug\net8.0\Domain.dll
+B:\Paint\PaintAPIs\Domain\bin\Debug\net8.0\Domain.pdb
+B:\Paint\PaintAPIs\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+B:\Paint\PaintAPIs\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+B:\Paint\PaintAPIs\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+B:\Paint\PaintAPIs\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+B:\Paint\PaintAPIs\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+B:\Paint\PaintAPIs\Domain\obj\Debug\net8.0\Domain.dll
+B:\Paint\PaintAPIs\Domain\obj\Debug\net8.0\refint\Domain.dll
+B:\Paint\PaintAPIs\Domain\obj\Debug\net8.0\Domain.pdb
+B:\Paint\PaintAPIs\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+B:\Paint\PaintAPIs\Domain\obj\Debug\net8.0\ref\Domain.dll

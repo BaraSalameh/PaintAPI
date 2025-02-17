@@ -1,0 +1,17 @@
+B:\Paint\PaintAPIs\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+B:\Paint\PaintAPIs\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+B:\Paint\PaintAPIs\DataAccess\bin\Debug\net8.0\DataAccess.dll
+B:\Paint\PaintAPIs\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+B:\Paint\PaintAPIs\DataAccess\bin\Debug\net8.0\Domain.dll
+B:\Paint\PaintAPIs\DataAccess\bin\Debug\net8.0\Domain.pdb
+B:\Paint\PaintAPIs\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+B:\Paint\PaintAPIs\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+B:\Paint\PaintAPIs\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+B:\Paint\PaintAPIs\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+B:\Paint\PaintAPIs\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+B:\Paint\PaintAPIs\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+B:\Paint\PaintAPIs\DataAccess\obj\Debug\net8.0\DataAccess.dll
+B:\Paint\PaintAPIs\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+B:\Paint\PaintAPIs\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+B:\Paint\PaintAPIs\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+B:\Paint\PaintAPIs\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
